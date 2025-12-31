@@ -1,9 +1,800 @@
-{"timestamp": "17:30:23.175", "elapsed_s": 3, "frame": 176, "type": "asteroid_shot"}
-{"timestamp": "17:30:23.176", "elapsed_s": 3, "frame": 176, "type": "Score increase"}
-{"timestamp": "17:30:23.176", "elapsed_s": 3, "frame": 176, "type": "asteroid_split"}
-{"timestamp": "17:30:23.493", "elapsed_s": 3, "frame": 195, "type": "asteroid_shot"}
-{"timestamp": "17:30:23.494", "elapsed_s": 3, "frame": 195, "type": "Score increase"}
-{"timestamp": "17:30:23.494", "elapsed_s": 3, "frame": 195, "type": "asteroid_split"}
-{"timestamp": "17:30:23.779", "elapsed_s": 4, "frame": 212, "type": "asteroid_shot"}
-{"timestamp": "17:30:23.780", "elapsed_s": 4, "frame": 212, "type": "Score increase"}
-{"timestamp": "17:30:25.982", "elapsed_s": 6, "frame": 342, "type": "player_hit"}
+{"timestamp": "23:53:14.547", "elapsed_s": 6, "frame": 347, "type": "asteroid_shot"}
+{"timestamp": "23:53:14.548", "elapsed_s": 6, "frame": 347, "type": "Score increase"}
+{"timestamp": "23:53:14.548", "elapsed_s": 6, "frame": 347, "type": "asteroid_split"}
+{"timestamp": "23:53:14.834", "elapsed_s": 6, "frame": 364, "type": "asteroid_shot"}
+{"timestamp": "23:53:14.835", "elapsed_s": 6, "frame": 364, "type": "Score increase"}
+{"timestamp": "23:53:14.835", "elapsed_s": 6, "frame": 364, "type": "asteroid_split"}
+{"timestamp": "23:53:15.239", "elapsed_s": 7, "frame": 388, "type": "asteroid_shot"}
+{"timestamp": "23:53:15.240", "elapsed_s": 7, "frame": 388, "type": "Score increase"}
+{"timestamp": "23:53:16.527", "elapsed_s": 8, "frame": 464, "type": "asteroid_shot"}
+{"timestamp": "23:53:16.528", "elapsed_s": 8, "frame": 464, "type": "Score increase"}
+{"timestamp": "23:53:17.205", "elapsed_s": 9, "frame": 504, "type": "asteroid_shot"}
+{"timestamp": "23:53:17.206", "elapsed_s": 9, "frame": 504, "type": "Score increase"}
+{"timestamp": "23:53:20.715", "elapsed_s": 12, "frame": 712, "type": "asteroid_shot"}
+{"timestamp": "23:53:20.716", "elapsed_s": 12, "frame": 712, "type": "Score increase"}
+{"timestamp": "23:53:20.716", "elapsed_s": 12, "frame": 712, "type": "asteroid_split"}
+{"timestamp": "23:53:21.090", "elapsed_s": 12, "frame": 734, "type": "asteroid_shot"}
+{"timestamp": "23:53:21.090", "elapsed_s": 12, "frame": 734, "type": "Score increase"}
+{"timestamp": "23:53:21.951", "elapsed_s": 13, "frame": 785, "type": "asteroid_shot"}
+{"timestamp": "23:53:21.952", "elapsed_s": 13, "frame": 785, "type": "Score increase"}
+{"timestamp": "23:53:22.934", "elapsed_s": 14, "frame": 843, "type": "asteroid_shot"}
+{"timestamp": "23:53:22.935", "elapsed_s": 14, "frame": 843, "type": "Score increase"}
+{"timestamp": "23:53:22.935", "elapsed_s": 14, "frame": 843, "type": "asteroid_split"}
+{"timestamp": "23:53:23.493", "elapsed_s": 15, "frame": 876, "type": "asteroid_shot"}
+{"timestamp": "23:53:23.493", "elapsed_s": 15, "frame": 876, "type": "Score increase"}
+{"timestamp": "23:53:23.494", "elapsed_s": 15, "frame": 876, "type": "asteroid_split"}
+{"timestamp": "23:53:23.830", "elapsed_s": 15, "frame": 896, "type": "asteroid_shot"}
+{"timestamp": "23:53:23.831", "elapsed_s": 15, "frame": 896, "type": "Score increase"}
+{"timestamp": "23:53:23.913", "elapsed_s": 15, "frame": 901, "type": "asteroid_shot"}
+{"timestamp": "23:53:23.913", "elapsed_s": 15, "frame": 901, "type": "Score increase"}
+{"timestamp": "23:53:24.334", "elapsed_s": 16, "frame": 926, "type": "asteroid_shot"}
+{"timestamp": "23:53:24.334", "elapsed_s": 16, "frame": 926, "type": "Score increase"}
+{"timestamp": "23:53:24.335", "elapsed_s": 16, "frame": 926, "type": "asteroid_split"}
+{"timestamp": "23:53:24.741", "elapsed_s": 16, "frame": 950, "type": "asteroid_shot"}
+{"timestamp": "23:53:24.742", "elapsed_s": 16, "frame": 950, "type": "Score increase"}
+{"timestamp": "23:53:25.231", "elapsed_s": 17, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:25.232", "elapsed_s": 17, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:25.232", "elapsed_s": 17, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:25.503", "elapsed_s": 17, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:25.504", "elapsed_s": 17, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:25.504", "elapsed_s": 17, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:25.841", "elapsed_s": 17, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:25.842", "elapsed_s": 17, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:26.350", "elapsed_s": 18, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:26.350", "elapsed_s": 18, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:26.824", "elapsed_s": 18, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:26.824", "elapsed_s": 18, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:26.825", "elapsed_s": 18, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:28.544", "elapsed_s": 20, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:28.544", "elapsed_s": 20, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:28.578", "elapsed_s": 20, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:28.579", "elapsed_s": 20, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:28.580", "elapsed_s": 20, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:31.141", "elapsed_s": 22, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:31.141", "elapsed_s": 22, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:31.141", "elapsed_s": 22, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:31.516", "elapsed_s": 23, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:31.516", "elapsed_s": 23, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:31.516", "elapsed_s": 23, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:31.973", "elapsed_s": 23, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:31.974", "elapsed_s": 23, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:31.974", "elapsed_s": 23, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:33.752", "elapsed_s": 25, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:33.753", "elapsed_s": 25, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:34.412", "elapsed_s": 26, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:34.412", "elapsed_s": 26, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:34.973", "elapsed_s": 26, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:34.974", "elapsed_s": 26, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:35.983", "elapsed_s": 27, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:35.983", "elapsed_s": 27, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:37.372", "elapsed_s": 29, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:37.372", "elapsed_s": 29, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:37.373", "elapsed_s": 29, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:37.979", "elapsed_s": 29, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:37.980", "elapsed_s": 29, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:37.980", "elapsed_s": 29, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:38.046", "elapsed_s": 29, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:38.046", "elapsed_s": 29, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:38.047", "elapsed_s": 29, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:38.775", "elapsed_s": 30, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:38.775", "elapsed_s": 30, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:39.130", "elapsed_s": 30, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:39.131", "elapsed_s": 30, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:39.452", "elapsed_s": 31, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:39.452", "elapsed_s": 31, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:39.707", "elapsed_s": 31, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:39.707", "elapsed_s": 31, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:39.707", "elapsed_s": 31, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:40.773", "elapsed_s": 32, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:40.774", "elapsed_s": 32, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:42.351", "elapsed_s": 34, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:42.351", "elapsed_s": 34, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:42.351", "elapsed_s": 34, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:42.877", "elapsed_s": 34, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:42.878", "elapsed_s": 34, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:42.878", "elapsed_s": 34, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:43.062", "elapsed_s": 34, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:43.062", "elapsed_s": 34, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:43.062", "elapsed_s": 34, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:43.419", "elapsed_s": 35, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:43.420", "elapsed_s": 35, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:43.861", "elapsed_s": 35, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:43.862", "elapsed_s": 35, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:43.862", "elapsed_s": 35, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:44.264", "elapsed_s": 36, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:44.265", "elapsed_s": 36, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:44.670", "elapsed_s": 36, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:44.670", "elapsed_s": 36, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:44.670", "elapsed_s": 36, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:46.046", "elapsed_s": 37, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:46.047", "elapsed_s": 37, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:46.047", "elapsed_s": 37, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:46.348", "elapsed_s": 38, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:46.348", "elapsed_s": 38, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:48.210", "elapsed_s": 40, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:48.210", "elapsed_s": 40, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:48.210", "elapsed_s": 40, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:48.582", "elapsed_s": 40, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:48.582", "elapsed_s": 40, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:48.957", "elapsed_s": 40, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:48.958", "elapsed_s": 40, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:49.464", "elapsed_s": 41, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:49.465", "elapsed_s": 41, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:49.465", "elapsed_s": 41, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:50.109", "elapsed_s": 41, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:50.110", "elapsed_s": 41, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:50.747", "elapsed_s": 42, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:50.747", "elapsed_s": 42, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:50.748", "elapsed_s": 42, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:51.993", "elapsed_s": 43, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:51.993", "elapsed_s": 43, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:51.994", "elapsed_s": 43, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:52.295", "elapsed_s": 44, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:52.296", "elapsed_s": 44, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:53.073", "elapsed_s": 44, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:53.073", "elapsed_s": 44, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:53.074", "elapsed_s": 44, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:53.480", "elapsed_s": 45, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:53.481", "elapsed_s": 45, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:53.597", "elapsed_s": 45, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:53.597", "elapsed_s": 45, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:53.598", "elapsed_s": 45, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:53.919", "elapsed_s": 45, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:53.919", "elapsed_s": 45, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:55.493", "elapsed_s": 47, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:55.493", "elapsed_s": 47, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:55.494", "elapsed_s": 47, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:55.817", "elapsed_s": 47, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:55.817", "elapsed_s": 47, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:55.817", "elapsed_s": 47, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:56.069", "elapsed_s": 47, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:56.070", "elapsed_s": 47, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:58.443", "elapsed_s": 50, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:58.444", "elapsed_s": 50, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:58.835", "elapsed_s": 50, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:58.835", "elapsed_s": 50, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:58.836", "elapsed_s": 50, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:59.190", "elapsed_s": 51, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:59.190", "elapsed_s": 51, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:53:59.191", "elapsed_s": 51, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:53:59.510", "elapsed_s": 51, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:53:59.511", "elapsed_s": 51, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:01.359", "elapsed_s": 53, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:01.359", "elapsed_s": 53, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:01.360", "elapsed_s": 53, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:01.699", "elapsed_s": 53, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:01.699", "elapsed_s": 53, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:01.699", "elapsed_s": 53, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:02.340", "elapsed_s": 54, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:02.340", "elapsed_s": 54, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:02.340", "elapsed_s": 54, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:02.390", "elapsed_s": 54, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:02.390", "elapsed_s": 54, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:02.391", "elapsed_s": 54, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:02.794", "elapsed_s": 54, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:02.795", "elapsed_s": 54, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:03.099", "elapsed_s": 54, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:03.099", "elapsed_s": 54, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:04.465", "elapsed_s": 56, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:04.465", "elapsed_s": 56, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:04.465", "elapsed_s": 56, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:04.532", "elapsed_s": 56, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:04.532", "elapsed_s": 56, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:04.532", "elapsed_s": 56, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:04.886", "elapsed_s": 56, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:04.886", "elapsed_s": 56, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:05.275", "elapsed_s": 57, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:05.275", "elapsed_s": 57, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:06.710", "elapsed_s": 58, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:06.711", "elapsed_s": 58, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:06.711", "elapsed_s": 58, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:07.118", "elapsed_s": 58, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:07.119", "elapsed_s": 58, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:07.928", "elapsed_s": 59, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:07.928", "elapsed_s": 59, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:09.707", "elapsed_s": 61, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:09.707", "elapsed_s": 61, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:09.708", "elapsed_s": 61, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:11.361", "elapsed_s": 63, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:11.361", "elapsed_s": 63, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:11.362", "elapsed_s": 63, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:11.684", "elapsed_s": 63, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:11.684", "elapsed_s": 63, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:11.684", "elapsed_s": 63, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:11.988", "elapsed_s": 63, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:11.988", "elapsed_s": 63, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:12.276", "elapsed_s": 64, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:12.277", "elapsed_s": 64, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:14.482", "elapsed_s": 66, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:14.482", "elapsed_s": 66, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:14.483", "elapsed_s": 66, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:15.562", "elapsed_s": 67, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:15.562", "elapsed_s": 67, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:15.562", "elapsed_s": 67, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:19.144", "elapsed_s": 70, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:19.145", "elapsed_s": 70, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:19.145", "elapsed_s": 70, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:19.450", "elapsed_s": 71, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:19.451", "elapsed_s": 71, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:19.788", "elapsed_s": 71, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:19.788", "elapsed_s": 71, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:21.006", "elapsed_s": 72, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:21.007", "elapsed_s": 72, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:21.007", "elapsed_s": 72, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:21.209", "elapsed_s": 73, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:21.209", "elapsed_s": 73, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:21.210", "elapsed_s": 73, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:21.328", "elapsed_s": 73, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:21.329", "elapsed_s": 73, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:22.225", "elapsed_s": 74, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:22.226", "elapsed_s": 74, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:22.226", "elapsed_s": 74, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:22.617", "elapsed_s": 74, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:22.618", "elapsed_s": 74, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:23.913", "elapsed_s": 75, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:23.913", "elapsed_s": 75, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:25.297", "elapsed_s": 77, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:25.297", "elapsed_s": 77, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:25.298", "elapsed_s": 77, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:25.692", "elapsed_s": 77, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:25.693", "elapsed_s": 77, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:27.011", "elapsed_s": 78, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:27.012", "elapsed_s": 78, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:27.584", "elapsed_s": 79, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:27.584", "elapsed_s": 79, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:29.544", "elapsed_s": 81, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:29.545", "elapsed_s": 81, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:29.545", "elapsed_s": 81, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:30.001", "elapsed_s": 81, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:30.002", "elapsed_s": 81, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:31.034", "elapsed_s": 82, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:31.034", "elapsed_s": 82, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:31.034", "elapsed_s": 82, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:32.130", "elapsed_s": 83, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:32.130", "elapsed_s": 83, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:32.994", "elapsed_s": 84, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:32.994", "elapsed_s": 84, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:32.995", "elapsed_s": 84, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:33.772", "elapsed_s": 85, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:33.773", "elapsed_s": 85, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:33.773", "elapsed_s": 85, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:33.773", "elapsed_s": 85, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:33.774", "elapsed_s": 85, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:33.774", "elapsed_s": 85, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:34.114", "elapsed_s": 85, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:34.114", "elapsed_s": 85, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:34.114", "elapsed_s": 85, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:34.384", "elapsed_s": 86, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:34.385", "elapsed_s": 86, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:34.875", "elapsed_s": 86, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:34.876", "elapsed_s": 86, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:34.876", "elapsed_s": 86, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:37.129", "elapsed_s": 88, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:37.129", "elapsed_s": 88, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:37.130", "elapsed_s": 88, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:37.842", "elapsed_s": 89, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:37.843", "elapsed_s": 89, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:40.933", "elapsed_s": 92, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:40.933", "elapsed_s": 92, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:40.933", "elapsed_s": 92, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:41.237", "elapsed_s": 93, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:41.238", "elapsed_s": 93, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:41.238", "elapsed_s": 93, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:41.527", "elapsed_s": 93, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:41.528", "elapsed_s": 93, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:42.393", "elapsed_s": 94, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:42.394", "elapsed_s": 94, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:43.090", "elapsed_s": 94, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:43.090", "elapsed_s": 94, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:43.090", "elapsed_s": 94, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:43.563", "elapsed_s": 95, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:43.563", "elapsed_s": 95, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:44.290", "elapsed_s": 96, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:44.290", "elapsed_s": 96, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:44.291", "elapsed_s": 96, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:44.818", "elapsed_s": 96, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:44.818", "elapsed_s": 96, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:44.819", "elapsed_s": 96, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:45.800", "elapsed_s": 97, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:45.800", "elapsed_s": 97, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:45.801", "elapsed_s": 97, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:46.107", "elapsed_s": 97, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:46.108", "elapsed_s": 97, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:46.886", "elapsed_s": 98, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:46.887", "elapsed_s": 98, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:47.496", "elapsed_s": 99, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:47.497", "elapsed_s": 99, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:47.497", "elapsed_s": 99, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:47.664", "elapsed_s": 99, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:47.664", "elapsed_s": 99, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:47.665", "elapsed_s": 99, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:47.920", "elapsed_s": 99, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:47.920", "elapsed_s": 99, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:47.920", "elapsed_s": 99, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:47.971", "elapsed_s": 99, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:47.972", "elapsed_s": 99, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:47.972", "elapsed_s": 99, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:48.293", "elapsed_s": 100, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:48.293", "elapsed_s": 100, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:49.611", "elapsed_s": 101, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:49.611", "elapsed_s": 101, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:49.611", "elapsed_s": 101, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:50.036", "elapsed_s": 101, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:50.036", "elapsed_s": 101, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:50.156", "elapsed_s": 102, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:50.156", "elapsed_s": 102, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:50.377", "elapsed_s": 102, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:50.378", "elapsed_s": 102, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:50.378", "elapsed_s": 102, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:50.786", "elapsed_s": 102, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:50.786", "elapsed_s": 102, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:50.920", "elapsed_s": 102, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:50.920", "elapsed_s": 102, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:50.921", "elapsed_s": 102, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:51.448", "elapsed_s": 103, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:51.449", "elapsed_s": 103, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:51.633", "elapsed_s": 103, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:51.633", "elapsed_s": 103, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:52.737", "elapsed_s": 104, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:52.738", "elapsed_s": 104, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:52.738", "elapsed_s": 104, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:53.059", "elapsed_s": 104, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:53.059", "elapsed_s": 104, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:53.467", "elapsed_s": 105, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:53.467", "elapsed_s": 105, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:53.859", "elapsed_s": 105, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:53.860", "elapsed_s": 105, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:53.860", "elapsed_s": 105, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:54.267", "elapsed_s": 106, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:54.268", "elapsed_s": 106, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:54.268", "elapsed_s": 106, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:54.284", "elapsed_s": 106, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:54.285", "elapsed_s": 106, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:54.285", "elapsed_s": 106, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:55.334", "elapsed_s": 107, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:55.334", "elapsed_s": 107, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:55.963", "elapsed_s": 107, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:55.963", "elapsed_s": 107, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:56.830", "elapsed_s": 108, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:56.830", "elapsed_s": 108, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:56.930", "elapsed_s": 108, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:56.931", "elapsed_s": 108, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:56.931", "elapsed_s": 108, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:57.475", "elapsed_s": 109, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:57.476", "elapsed_s": 109, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:58.098", "elapsed_s": 109, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:58.099", "elapsed_s": 109, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:54:58.099", "elapsed_s": 109, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:54:59.318", "elapsed_s": 111, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:54:59.318", "elapsed_s": 111, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:00.012", "elapsed_s": 111, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:00.013", "elapsed_s": 111, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:00.013", "elapsed_s": 111, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:00.166", "elapsed_s": 112, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:00.166", "elapsed_s": 112, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:00.166", "elapsed_s": 112, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:00.269", "elapsed_s": 112, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:00.269", "elapsed_s": 112, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:00.269", "elapsed_s": 112, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:00.490", "elapsed_s": 112, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:00.490", "elapsed_s": 112, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:00.490", "elapsed_s": 112, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:00.641", "elapsed_s": 112, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:00.641", "elapsed_s": 112, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:00.812", "elapsed_s": 112, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:00.812", "elapsed_s": 112, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:00.812", "elapsed_s": 112, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:00.828", "elapsed_s": 112, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:00.828", "elapsed_s": 112, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:01.304", "elapsed_s": 113, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:01.305", "elapsed_s": 113, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:01.305", "elapsed_s": 113, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:01.761", "elapsed_s": 113, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:01.762", "elapsed_s": 113, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:02.443", "elapsed_s": 114, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:02.444", "elapsed_s": 114, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:02.444", "elapsed_s": 114, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:02.731", "elapsed_s": 114, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:02.731", "elapsed_s": 114, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:04.390", "elapsed_s": 116, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:04.390", "elapsed_s": 116, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:04.591", "elapsed_s": 116, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:04.591", "elapsed_s": 116, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:04.710", "elapsed_s": 116, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:04.710", "elapsed_s": 116, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:05.736", "elapsed_s": 117, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:05.737", "elapsed_s": 117, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:06.109", "elapsed_s": 117, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:06.110", "elapsed_s": 117, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:06.110", "elapsed_s": 117, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:06.416", "elapsed_s": 118, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:06.416", "elapsed_s": 118, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:06.416", "elapsed_s": 118, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:06.703", "elapsed_s": 118, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:06.703", "elapsed_s": 118, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:06.703", "elapsed_s": 118, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:07.026", "elapsed_s": 118, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:07.027", "elapsed_s": 118, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:07.194", "elapsed_s": 119, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:07.194", "elapsed_s": 119, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:07.195", "elapsed_s": 119, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:07.569", "elapsed_s": 119, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:07.569", "elapsed_s": 119, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:07.569", "elapsed_s": 119, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:07.789", "elapsed_s": 119, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:07.789", "elapsed_s": 119, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:07.790", "elapsed_s": 119, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:07.806", "elapsed_s": 119, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:07.806", "elapsed_s": 119, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:07.806", "elapsed_s": 119, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:07.958", "elapsed_s": 119, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:07.958", "elapsed_s": 119, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:08.093", "elapsed_s": 119, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:08.093", "elapsed_s": 119, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:08.094", "elapsed_s": 119, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:08.570", "elapsed_s": 120, "frame": 961, "type": "player_hit"}
+{"timestamp": "23:55:08.774", "elapsed_s": 120, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:08.774", "elapsed_s": 120, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:09.300", "elapsed_s": 121, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:09.301", "elapsed_s": 121, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:09.301", "elapsed_s": 121, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:09.573", "elapsed_s": 121, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:09.574", "elapsed_s": 121, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:09.574", "elapsed_s": 121, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:09.776", "elapsed_s": 121, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:09.777", "elapsed_s": 121, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:09.860", "elapsed_s": 121, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:09.861", "elapsed_s": 121, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:09.861", "elapsed_s": 121, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:09.911", "elapsed_s": 121, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:09.911", "elapsed_s": 121, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:11.203", "elapsed_s": 123, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:11.203", "elapsed_s": 123, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:11.204", "elapsed_s": 123, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:11.747", "elapsed_s": 123, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:11.748", "elapsed_s": 123, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:12.322", "elapsed_s": 124, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:12.322", "elapsed_s": 124, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:12.323", "elapsed_s": 124, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:12.372", "elapsed_s": 124, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:12.373", "elapsed_s": 124, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:12.373", "elapsed_s": 124, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:12.696", "elapsed_s": 124, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:12.696", "elapsed_s": 124, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:13.100", "elapsed_s": 124, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:13.100", "elapsed_s": 124, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:13.626", "elapsed_s": 125, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:13.627", "elapsed_s": 125, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:13.631", "elapsed_s": 125, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:13.916", "elapsed_s": 125, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:13.916", "elapsed_s": 125, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:13.917", "elapsed_s": 125, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:14.223", "elapsed_s": 126, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:14.224", "elapsed_s": 126, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:14.833", "elapsed_s": 126, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:14.833", "elapsed_s": 126, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:14.834", "elapsed_s": 126, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:14.901", "elapsed_s": 126, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:14.902", "elapsed_s": 126, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:14.902", "elapsed_s": 126, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:15.292", "elapsed_s": 127, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:15.292", "elapsed_s": 127, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:16.582", "elapsed_s": 128, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:16.583", "elapsed_s": 128, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:16.583", "elapsed_s": 128, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:16.719", "elapsed_s": 128, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:16.719", "elapsed_s": 128, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:17.736", "elapsed_s": 129, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:17.736", "elapsed_s": 129, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:18.431", "elapsed_s": 130, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:18.431", "elapsed_s": 130, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:18.432", "elapsed_s": 130, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:18.617", "elapsed_s": 130, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:18.617", "elapsed_s": 130, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:18.618", "elapsed_s": 130, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:18.787", "elapsed_s": 130, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:18.787", "elapsed_s": 130, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:18.974", "elapsed_s": 130, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:18.974", "elapsed_s": 130, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:18.974", "elapsed_s": 130, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:19.076", "elapsed_s": 130, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:19.077", "elapsed_s": 130, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:19.077", "elapsed_s": 130, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:19.809", "elapsed_s": 131, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:19.810", "elapsed_s": 131, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:19.810", "elapsed_s": 131, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:20.167", "elapsed_s": 132, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:20.167", "elapsed_s": 132, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:20.269", "elapsed_s": 132, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:20.269", "elapsed_s": 132, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:21.491", "elapsed_s": 133, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:21.491", "elapsed_s": 133, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:21.492", "elapsed_s": 133, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:21.830", "elapsed_s": 133, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:21.830", "elapsed_s": 133, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:21.831", "elapsed_s": 133, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:22.390", "elapsed_s": 134, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:22.390", "elapsed_s": 134, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:22.509", "elapsed_s": 134, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:22.510", "elapsed_s": 134, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:23.512", "elapsed_s": 135, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:23.512", "elapsed_s": 135, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:23.513", "elapsed_s": 135, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:23.820", "elapsed_s": 135, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:23.820", "elapsed_s": 135, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:23.821", "elapsed_s": 135, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:23.904", "elapsed_s": 135, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:23.904", "elapsed_s": 135, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:23.905", "elapsed_s": 135, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:24.227", "elapsed_s": 136, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:24.227", "elapsed_s": 136, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:25.006", "elapsed_s": 136, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:25.007", "elapsed_s": 136, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:25.226", "elapsed_s": 137, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:25.226", "elapsed_s": 137, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:25.226", "elapsed_s": 137, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:26.144", "elapsed_s": 137, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:26.144", "elapsed_s": 137, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:27.350", "elapsed_s": 139, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:27.350", "elapsed_s": 139, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:27.995", "elapsed_s": 139, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:27.996", "elapsed_s": 139, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:27.996", "elapsed_s": 139, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:28.317", "elapsed_s": 140, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:28.318", "elapsed_s": 140, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:28.318", "elapsed_s": 140, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:28.674", "elapsed_s": 140, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:28.675", "elapsed_s": 140, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:28.676", "elapsed_s": 140, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:28.946", "elapsed_s": 140, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:28.947", "elapsed_s": 140, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:29.268", "elapsed_s": 141, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:29.269", "elapsed_s": 141, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:30.625", "elapsed_s": 142, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:30.626", "elapsed_s": 142, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:31.166", "elapsed_s": 143, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:31.167", "elapsed_s": 143, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:31.269", "elapsed_s": 143, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:31.270", "elapsed_s": 143, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:31.270", "elapsed_s": 143, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:33.120", "elapsed_s": 144, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:33.121", "elapsed_s": 144, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:33.121", "elapsed_s": 144, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:33.254", "elapsed_s": 145, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:33.255", "elapsed_s": 145, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:33.255", "elapsed_s": 145, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:33.425", "elapsed_s": 145, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:33.425", "elapsed_s": 145, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:33.425", "elapsed_s": 145, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:33.475", "elapsed_s": 145, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:33.475", "elapsed_s": 145, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:33.475", "elapsed_s": 145, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:33.798", "elapsed_s": 145, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:33.798", "elapsed_s": 145, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:34.474", "elapsed_s": 146, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:34.474", "elapsed_s": 146, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:34.474", "elapsed_s": 146, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:34.814", "elapsed_s": 146, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:34.814", "elapsed_s": 146, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:34.847", "elapsed_s": 146, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:34.847", "elapsed_s": 146, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:34.847", "elapsed_s": 146, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:35.221", "elapsed_s": 147, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:35.222", "elapsed_s": 147, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:35.612", "elapsed_s": 147, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:35.612", "elapsed_s": 147, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:37.055", "elapsed_s": 148, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:37.055", "elapsed_s": 148, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:37.056", "elapsed_s": 148, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:38.007", "elapsed_s": 149, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:38.007", "elapsed_s": 149, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:38.008", "elapsed_s": 149, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:38.159", "elapsed_s": 150, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:38.159", "elapsed_s": 150, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:38.159", "elapsed_s": 150, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:39.483", "elapsed_s": 151, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:39.483", "elapsed_s": 151, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:39.484", "elapsed_s": 151, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:39.668", "elapsed_s": 151, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:39.668", "elapsed_s": 151, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:39.668", "elapsed_s": 151, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:39.720", "elapsed_s": 151, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:39.720", "elapsed_s": 151, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:39.992", "elapsed_s": 151, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:39.992", "elapsed_s": 151, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:41.142", "elapsed_s": 152, "frame": 961, "type": "player_hit"}
+{"timestamp": "23:55:42.192", "elapsed_s": 154, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:42.192", "elapsed_s": 154, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:45.064", "elapsed_s": 156, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:45.064", "elapsed_s": 156, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:45.405", "elapsed_s": 157, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:45.405", "elapsed_s": 157, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:45.406", "elapsed_s": 157, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:45.456", "elapsed_s": 157, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:45.456", "elapsed_s": 157, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:45.457", "elapsed_s": 157, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:45.795", "elapsed_s": 157, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:45.795", "elapsed_s": 157, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:45.796", "elapsed_s": 157, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:46.135", "elapsed_s": 157, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:46.136", "elapsed_s": 157, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:46.612", "elapsed_s": 158, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:46.612", "elapsed_s": 158, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:46.612", "elapsed_s": 158, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:47.238", "elapsed_s": 159, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:47.238", "elapsed_s": 159, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:47.238", "elapsed_s": 159, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:47.899", "elapsed_s": 159, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:47.899", "elapsed_s": 159, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:47.900", "elapsed_s": 159, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:48.256", "elapsed_s": 160, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:48.256", "elapsed_s": 160, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:49.668", "elapsed_s": 161, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:49.669", "elapsed_s": 161, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:49.669", "elapsed_s": 161, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:51.026", "elapsed_s": 162, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:51.026", "elapsed_s": 162, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:51.026", "elapsed_s": 162, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:51.212", "elapsed_s": 163, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:51.213", "elapsed_s": 163, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:51.553", "elapsed_s": 163, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:51.553", "elapsed_s": 163, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:52.962", "elapsed_s": 164, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:52.962", "elapsed_s": 164, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:52.963", "elapsed_s": 164, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:53.182", "elapsed_s": 165, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:53.182", "elapsed_s": 165, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:53.182", "elapsed_s": 165, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:53.385", "elapsed_s": 165, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:53.385", "elapsed_s": 165, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:53.385", "elapsed_s": 165, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:53.571", "elapsed_s": 165, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:53.571", "elapsed_s": 165, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:53.945", "elapsed_s": 165, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:53.946", "elapsed_s": 165, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:54.420", "elapsed_s": 166, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:54.420", "elapsed_s": 166, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:54.979", "elapsed_s": 166, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:54.979", "elapsed_s": 166, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:54.980", "elapsed_s": 166, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:55.795", "elapsed_s": 167, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:55.795", "elapsed_s": 167, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:56.574", "elapsed_s": 168, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:56.574", "elapsed_s": 168, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:56.575", "elapsed_s": 168, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:57.662", "elapsed_s": 169, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:57.662", "elapsed_s": 169, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:57.663", "elapsed_s": 169, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:57.780", "elapsed_s": 169, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:57.780", "elapsed_s": 169, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:58.340", "elapsed_s": 170, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:58.340", "elapsed_s": 170, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:55:58.341", "elapsed_s": 170, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:55:58.644", "elapsed_s": 170, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:55:58.645", "elapsed_s": 170, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:01.106", "elapsed_s": 172, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:01.106", "elapsed_s": 172, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:01.107", "elapsed_s": 172, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:01.479", "elapsed_s": 173, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:01.479", "elapsed_s": 173, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:01.479", "elapsed_s": 173, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:01.818", "elapsed_s": 173, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:01.818", "elapsed_s": 173, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:01.818", "elapsed_s": 173, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:02.123", "elapsed_s": 173, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:02.123", "elapsed_s": 173, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:02.683", "elapsed_s": 174, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:02.683", "elapsed_s": 174, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:03.412", "elapsed_s": 175, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:03.413", "elapsed_s": 175, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:03.413", "elapsed_s": 175, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:03.647", "elapsed_s": 175, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:03.647", "elapsed_s": 175, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:03.647", "elapsed_s": 175, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:03.784", "elapsed_s": 175, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:03.785", "elapsed_s": 175, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:03.785", "elapsed_s": 175, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:04.174", "elapsed_s": 176, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:04.175", "elapsed_s": 176, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:04.175", "elapsed_s": 176, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:04.360", "elapsed_s": 176, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:04.361", "elapsed_s": 176, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:04.940", "elapsed_s": 176, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:04.940", "elapsed_s": 176, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:05.514", "elapsed_s": 177, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:05.514", "elapsed_s": 177, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:05.514", "elapsed_s": 177, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:05.886", "elapsed_s": 177, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:05.886", "elapsed_s": 177, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:05.887", "elapsed_s": 177, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:06.345", "elapsed_s": 178, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:06.346", "elapsed_s": 178, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:06.346", "elapsed_s": 178, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:06.463", "elapsed_s": 178, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:06.463", "elapsed_s": 178, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:06.546", "elapsed_s": 178, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:06.546", "elapsed_s": 178, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:06.700", "elapsed_s": 178, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:06.700", "elapsed_s": 178, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:07.005", "elapsed_s": 178, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:07.006", "elapsed_s": 178, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:07.958", "elapsed_s": 179, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:07.958", "elapsed_s": 179, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:07.959", "elapsed_s": 179, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:08.194", "elapsed_s": 180, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:08.194", "elapsed_s": 180, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:08.195", "elapsed_s": 180, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:08.280", "elapsed_s": 180, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:08.280", "elapsed_s": 180, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:08.280", "elapsed_s": 180, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:08.364", "elapsed_s": 180, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:08.365", "elapsed_s": 180, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:09.215", "elapsed_s": 181, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:09.215", "elapsed_s": 181, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:09.334", "elapsed_s": 181, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:09.335", "elapsed_s": 181, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:09.691", "elapsed_s": 181, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:09.692", "elapsed_s": 181, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:09.692", "elapsed_s": 181, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:09.793", "elapsed_s": 181, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:09.793", "elapsed_s": 181, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:10.014", "elapsed_s": 181, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:10.015", "elapsed_s": 181, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:10.015", "elapsed_s": 181, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:10.337", "elapsed_s": 182, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:10.337", "elapsed_s": 182, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:10.947", "elapsed_s": 182, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:10.947", "elapsed_s": 182, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:10.948", "elapsed_s": 182, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:12.800", "elapsed_s": 184, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:12.801", "elapsed_s": 184, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:12.801", "elapsed_s": 184, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:14.040", "elapsed_s": 185, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:14.040", "elapsed_s": 185, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:14.040", "elapsed_s": 185, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:14.464", "elapsed_s": 186, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:14.465", "elapsed_s": 186, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:15.280", "elapsed_s": 187, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:15.281", "elapsed_s": 187, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:17.100", "elapsed_s": 188, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:17.100", "elapsed_s": 188, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:17.286", "elapsed_s": 189, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:17.286", "elapsed_s": 189, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:17.286", "elapsed_s": 189, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:18.223", "elapsed_s": 190, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:18.224", "elapsed_s": 190, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:19.802", "elapsed_s": 191, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:19.802", "elapsed_s": 191, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:19.818", "elapsed_s": 191, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:19.818", "elapsed_s": 191, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:21.264", "elapsed_s": 193, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:21.264", "elapsed_s": 193, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:23.148", "elapsed_s": 194, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:23.148", "elapsed_s": 194, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:23.149", "elapsed_s": 194, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:23.862", "elapsed_s": 195, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:23.862", "elapsed_s": 195, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:23.863", "elapsed_s": 195, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:24.118", "elapsed_s": 195, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:24.118", "elapsed_s": 195, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:24.118", "elapsed_s": 195, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:24.612", "elapsed_s": 196, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:24.612", "elapsed_s": 196, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:24.613", "elapsed_s": 196, "frame": 961, "type": "asteroid_split"}
+{"timestamp": "23:56:24.936", "elapsed_s": 196, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:24.936", "elapsed_s": 196, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:25.190", "elapsed_s": 197, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:25.190", "elapsed_s": 197, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:26.549", "elapsed_s": 198, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:26.549", "elapsed_s": 198, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:27.041", "elapsed_s": 198, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:27.041", "elapsed_s": 198, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:28.482", "elapsed_s": 200, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:28.483", "elapsed_s": 200, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:29.536", "elapsed_s": 201, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:29.536", "elapsed_s": 201, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:30.263", "elapsed_s": 202, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:30.263", "elapsed_s": 202, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:31.283", "elapsed_s": 203, "frame": 961, "type": "asteroid_shot"}
+{"timestamp": "23:56:31.283", "elapsed_s": 203, "frame": 961, "type": "Score increase"}
+{"timestamp": "23:56:31.624", "elapsed_s": 203, "frame": 961, "type": "player_hit"}

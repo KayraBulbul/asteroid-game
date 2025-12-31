@@ -19,6 +19,8 @@ def main():
     clock = pygame.time.Clock()
     dt = 0
     score = 0
+    lives = 3
+    last_collide_time = 0
 
     HIGHSCORE = "highscore.json"
 
@@ -66,14 +68,18 @@ def main():
                     shot.kill()
                     asteroid.split()
         for obj in asteroids:
-            if obj.collides_with(player):
+            if obj.collides_with_player(player):
                 log_event("player_hit")
-                print("Game Over!")
-                sys.exit()
+                lives -= 1
+                if lives == 0:
+                    print("Game Over!")
+                    sys.exit()
 
         screen.fill("black")
         score_surface = font.render(f"Score: {score}", True, "white")
+        lives_surface = font.render(f"Lives: {lives}", True, "white")
         highscore_surface = font.render(f"Highscore: {highscore}", True, "white")
+        screen.blit(lives_surface, (1150, 10))
         screen.blit(score_surface, (10, 10))
         screen.blit(highscore_surface, (10, 50))
 
