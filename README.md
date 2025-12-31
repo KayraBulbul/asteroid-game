@@ -14,7 +14,7 @@ This was a boot.dev course to practice object-oriented programming.
 
 - Asteroid/asteroid collisions (currently only player/asteroid collisions)
 - Respawn and life system
-- Score with persistent highscore system
+- ~~Score with persistent highscore system~~
 
 These are just the main plans, I do have more ideas but will wait on implementing those until these are done.
 

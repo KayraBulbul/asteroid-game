@@ -1,5 +1,4 @@
 from math import log
-import asyncio
 import pygame
 import os
 import json
@@ -55,7 +54,6 @@ def main():
                 return
         updatable.update(dt)
         highscore = load_highscore()
-        highscore_lock = asyncio.Lock()
 
         for asteroid in asteroids:
             for shot in shots:
