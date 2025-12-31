@@ -20,6 +20,17 @@ These are just the main plans, I do have more ideas but will wait on implementin
 
 ## How to play
 
+Prerequisites
+
+- Python 3.13
+
+Clone repo
+Install requirements.txt using:
+
+```
+pip install -r requirements.txt
+```
+
 Just run main.py in the terminal using:
 
 ```
