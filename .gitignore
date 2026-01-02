@@ -12,3 +12,4 @@ wheels/
 # jsonl
 game_state.jsonl
 highscore.json
+game_events.jsonl
