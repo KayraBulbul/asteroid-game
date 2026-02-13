@@ -12,7 +12,6 @@ This was a boot.dev course to practice object-oriented programming.
 
 ## Planned additions
 
-- Asteroid/asteroid collisions (currently only player/asteroid collisions)
 - ~~Respawn and life system~~
 - ~~Score with persistent highscore system~~
 
